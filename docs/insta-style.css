@@ -183,7 +183,19 @@ a{
     }
     .insta-icon{
         width: 6%;
-        margin-left: -18%;
+        margin-left: -20%;
         margin-top: 1%;
     }
  }
+@media(max-width: 500px){
+      .entrar_sair{
+        width: 12rem;
+        margin-top: 1rem;
+        margin-left: -17%;
+    }
+     .insta-icon{
+        width: 8%;
+        margin-left: -22%;
+        margin-top: 1%;
+    }
+}
