@@ -165,6 +165,7 @@ a{
          margin-left: -5%;
      }
      .insta-icon{
+         width: 5%;
          margin-left: -12%;
          margin-top: 1.5%;
      }
@@ -191,11 +192,11 @@ a{
       .entrar_sair{
         width: 12rem;
         margin-top: 1rem;
-        margin-left: -17%;
+        margin-left: -25%;
     }
      .insta-icon{
         width: 8%;
-        margin-left: -22%;
+        margin-left: -27%;
         margin-top: 1%;
     }
 }
